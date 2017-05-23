@@ -1,0 +1,6 @@
+configurations:
+  maxsize: 6
+  maxallies: 6
+  truces: true #set to false when you want truces disabled
+  descriptionmaxlength: 30
+  namemaxlenght: 10

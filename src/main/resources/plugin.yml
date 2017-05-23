@@ -1,0 +1,8 @@
+name: ${project.artifactId}
+version: ${project.version}
+main: me.therandomgamer.gangs.Main
+author: TheRandomGamer
+commands:
+  gang:
+    aliases: g
+    description: do /g help for more information
